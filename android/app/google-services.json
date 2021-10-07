@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "609604028838",
+    "project_id": "bartal-7aa33",
+    "storage_bucket": "bartal-7aa33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609604028838:android:e670082a7f7db210976767",
+        "android_client_info": {
+          "package_name": "com.bartal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609604028838-e6ps8o16ugij2ofp6rdta03sin12lsmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bartal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "609604028838-um6m727b3u2kd5peetq07pamp5m1lt9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsatiTW1JeME5Nik7tU-PAw75-It0WLlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609604028838-um6m727b3u2kd5peetq07pamp5m1lt9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
